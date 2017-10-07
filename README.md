@@ -1,1 +1,1 @@
-# vagrant-ansible
+Simple ubuntu-16.04 with ansible installed
